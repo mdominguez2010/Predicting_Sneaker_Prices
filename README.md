@@ -1,5 +1,5 @@
-# project2
-Project 2 - Linear Regression
+# Predicting Sneaker Prices
+Predicting Sneaker Prices with Linear Regression
 
 ## The Sneaker Game: Datafied
 ### Web scraping data in order to predict sneaker prices with linear regression
